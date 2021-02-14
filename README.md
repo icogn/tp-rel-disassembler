@@ -1,6 +1,6 @@
 # TP REL Disassembler
 
-Pull Twilight Princess REL instructions from RAM dumps.
+Pull REL instructions from Twilight Princess RAM dumps.
 
 ## Quick Overview
 
