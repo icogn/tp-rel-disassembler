@@ -26,7 +26,7 @@ You will need a package manager like `npm` or [Yarn](https://classic.yarnpkg.com
 _(`npm` is recommended for most users since it comes with the Node installer.
 Use Yarn 1 if you plan to contribute to the project)_
 
-To install dependencies, choose one of the following methods:
+To install dependencies, you may choose one of the following methods:
 
 ### npm
 
