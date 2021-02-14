@@ -47,7 +47,7 @@ This will install dependencies, and you will only need to do this once.
 - In this directory, create a new directory named `map`.
 - Create a subdirectory of `map` named `gc.us`.<br>
   _(US Gamecube is the only supported version currently. Can add support for others if there is demand)_
-- Copy the `.map` files from the `/map/Final/Release` directory of the game's content, and paste them in the `/map/gc.us` directory which you created in a previous instruction.
+- Copy the files from the `/map/Final/Release` directory of the game's content, and paste them in the `/map/gc.us` directory which you created in a previous instruction.
 
 ```
 tp-rel-disassembler
