@@ -89,6 +89,6 @@ node index.js -i [RAM_DUMP] -r [REL_IDENTIFIER]
 - Hex ID of REL (3a, 0x96, 47)
   - A numerical value is always interpreted as a Hex ID.
 - Name (d_a_midna, e_rd)
-  - A leading 'd_a\_' is optional.
+  - Leading 'd_a\_' is optional.
 - Approximate Name (zant, lv5)
   - If the name you type is not an exact match, the tool will suggest a few options and exit.
